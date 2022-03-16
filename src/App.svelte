@@ -1,5 +1,6 @@
 <script>
-    import Battle from './components/battle.component.svelte'
+    import Battle from '../pages/battle/index.svelte'
+    import '../public/global.css'
 </script>
 
 <main>

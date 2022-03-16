@@ -9,7 +9,7 @@
     });
 </script>
 
-{characterName}
+
 <Button color="red" text="teste 1" />
 <Button color="blue" text="teste 2" />
 <Button color="green" text="teste 3" />
