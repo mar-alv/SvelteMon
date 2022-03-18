@@ -1,5 +1,5 @@
 <script>
-  import Typography from "./typography.component.svelte";
+  import Typography from "./typography.svelte";
 
   export let text;
 </script>

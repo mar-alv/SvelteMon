@@ -1,7 +1,7 @@
 <script>
-  import Modal from "@components/common/modal.component.svelte";
-  import BattleButtons from "@components/battle/battleButtons.component.svelte";
-  import BattleStatusCard from "@components/battle/battleStatusCard.component.svelte";
+  import Modal from "@components/common/modal.svelte";
+  import BattleButtons from "@components/battle/battleButtons.svelte";
+  import BattleStatusCard from "@components/battle/battleStatusCard.svelte";
 
   let pokemonName = "";
   let pokemonLevel = 5;
